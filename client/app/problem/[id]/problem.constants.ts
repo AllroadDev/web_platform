@@ -1,0 +1,1 @@
+export const LOCAL_STORAGE_CODE_KEY = 'inputCode';
